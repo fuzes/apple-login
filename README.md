@@ -1,1 +1,1 @@
-client id, redirect uri ¼öÁ¤ ÇÊ¿ä
+client id, redirect uri ìˆ˜ì • 
